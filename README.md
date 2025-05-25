@@ -33,7 +33,7 @@
 
 <!-- Most Used Languages Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitames404&layout=compact&theme=dark&hide_border=true" alt="Vitor's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorames404&layout=compact&theme=dark&hide_border=true" alt="Vitor's Most Used Languages" />
 </p>
 
 <h2>⚡️ Where to find me</h2>
