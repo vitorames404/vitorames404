@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Vitor Ames</h1>
 <h4>A Full-stack developer based in New Zealand | Check my online resumé: <a href="https://vitorames.onrender.com/">https://vitorames.onrender.com/</a></h4>
 
-<h2>🚀 Languages and Tools I Use</h2>
+<!-- <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -25,7 +25,7 @@
   <a target="_blank" href="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="42" height="42" /></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-</p>
+</p> -->
 
 <h2>📊 GitHub Stats</h2>
 
